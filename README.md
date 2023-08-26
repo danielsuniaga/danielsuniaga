@@ -9,11 +9,6 @@
 Soy un entusiasta y profesional de la ingeniería y la informática, creo en el empoderamiento del conocimiento constante enfocado a la implementación de soluciones innovadoras y adaptadas para nuestros usuarios.
 Actualmente estoy convencido que el futuro está en manos de todos los que se atreven a dar ese paso hacia adelante frente a lo desconocido motivado por sus objetivos a corto, mediano y largo plazo. Siempre trato de avanzar, considero que un día solo lo vive una vez y debemos aprovecharlo. 
 </p>
-<div align="center">
-[![Telegram](https://github.com/danielsuniaga/danielsuniaga/assets/105082657/981c3214-1158-45c0-b200-acddc28a7330)](https://t.me/adamalston)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
-</div>
 <!-- HR --><br>
 <div align="center">
   <table>
@@ -77,7 +72,9 @@ Actualmente estoy convencido que el futuro está en manos de todos los que se at
     </tbody>
   </table>
 </div>  
-
+[![Telegram](https://github.com/danielsuniaga/danielsuniaga/assets/105082657/981c3214-1158-45c0-b200-acddc28a7330)](https://t.me/adamalston)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 <!--
 **danielsuniaga/danielsuniaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
