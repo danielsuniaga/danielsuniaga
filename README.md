@@ -2,6 +2,12 @@
   <img src="https://github.com/danielsuniaga/danielsuniaga/assets/105082657/24722b33-5b49-4c2b-b987-13d1b735a984">
 </p>
 
+<!-- HR -->
+# Hola 😉😉 
+<!-- HR -->
+Soy un entusiasta y profesional de la ingeniería y la informática, creo en el empoderamiento del conocimiento constante enfocado a la implementación de soluciones innovadoras y adaptadas para nuestros usuarios.
+Actualmente estoy convencido que el futuro está en manos de todos los que se atreven a dar ese paso hacia adelante frente a lo desconocido motivado por sus objetivos a corto, mediano y largo plazo. Siempre trato de avanzar, considero que un día solo lo vive una vez y debemos aprovecharlo. 
+<!-- HR -->
 <!--
 **danielsuniaga/danielsuniaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
