@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/danielsuniaga/danielsuniaga/assets/105082657/d18390bd-8669-4055-9970-6b64287b7ede">
+</p>
 
 <!--
 **danielsuniaga/danielsuniaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
