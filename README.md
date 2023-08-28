@@ -39,8 +39,8 @@ Actualmente estoy convencido que el futuro está en manos de todos los que se at
           <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
         </td>
         <td width="25%" align="center">
-          <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
-          <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+          <span>PHP</span><br><br>
+          <img height="64px" src="https://github.com/danielsuniaga/danielsuniaga/assets/105082657/a21e6378-e5f3-4ba0-9d79-104cac6dd1a0">
         </td>
         <td width="25%" align="center">
           <span>𝗚𝗶𝘁</span><br><br>
