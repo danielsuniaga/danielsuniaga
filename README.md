@@ -74,5 +74,5 @@ Actualmente estoy convencido que el futuro está en manos de todos los que se at
 </div>  
 <p align="right">
    <a title="Gmail" href="mailto:danieldsuniaga@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-   <a title="LinkedIn" href="https://www.linkedin.com/in/daniel-suniaga-74a10699/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+   <a title="LinkedIn" target="_blank" href="https://www.linkedin.com/in/daniel-suniaga-74a10699/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
 </p>
