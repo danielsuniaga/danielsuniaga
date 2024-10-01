@@ -3,11 +3,11 @@
 </p>
 
 <!-- HR -->
-## Hola 😉😉 
+## Hello 😉😉 
 <!-- HR -->
 <p align="justify">
-Soy un entusiasta y profesional de la ingeniería y la informática, creo en el empoderamiento del conocimiento constante enfocado a la implementación de soluciones innovadoras y adaptadas para nuestros usuarios.
-Actualmente estoy convencido que el futuro está en manos de todos los que se atreven a dar ese paso hacia adelante frente a lo desconocido motivado por sus objetivos a corto, mediano y largo plazo. Siempre trato de avanzar, considero que un día solo lo vive una vez y debemos aprovecharlo. 
+I am an engineering and computer science enthusiast and professional, I believe in the empowerment of constant knowledge focused on the implementation of innovative and adapted solutions for our users.
+I am currently convinced that the future is in the hands of all those who dare to take that step forward in the face of the unknown motivated by their short, medium and long-term objectives. I always try to move forward, I consider that you only live one day once and we must take advantage of it.
 </p>
 <!-- HR --><br>
 <div align="center">
